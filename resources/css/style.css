@@ -1,0 +1,92 @@
+/*Style the heading*/
+
+.heading,
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+
+/*Style the brush section*/
+
+div#brush>h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+div#brush>h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 1.17em;
+}
+
+div#brush>p {
+    font-family: Helvetica;
+}
+
+#price-brushes {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+
+/*Style the frame section*/
+
+div#frame>h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+div#frame>h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 1.17em;
+}
+
+div#frame>p {
+    font-family: Helvetica;
+}
+
+#price-frames {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+
+/*Style the paint section*/
+
+#paint>h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+div#paint>h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 1.17em;
+}
+
+div#paint>p {
+    font-family: Helvetica;
+}
+
+#price-paints {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
